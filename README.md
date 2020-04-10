@@ -1,0 +1,2 @@
+# SpringBoot-SpringMVC
+基于springboot+springmvc框架，持久层使用mybatis，通过配置事务操作mysql数据库。业务层面非常简单，主要目的是帮助读者了解springboot等框架的使用。
