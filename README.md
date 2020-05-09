@@ -35,8 +35,8 @@ https://blog.csdn.net/weixin_40396510/article/details/79277731
     │   ├── resources
     │   │   ├── application.properties
     │   │   ├── log4j.xml
-    │   │   └── transaction.xml--事务的配置文件
-    │   │   └── webapp--包含所有jsp文件
+    │   │   ├── transaction.xml--事务的配置文件
+    │   │   ├── webapp--包含所有jsp文件
     │   │   └── mybatis
     │   │ 	    └── mapping--mybatis的Mapper.xml配置文件
     │   │
